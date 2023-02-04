@@ -134,13 +134,6 @@ header{
     animation: appear .2s forwards;
 }
 
-footer{
-    text-align: center;
-    background: url(./assets/bg.jpg);
-    margin-top: 52px;
-    padding: 100px 0;
-}
-
 .recado{
     font-family: 'Roboto', sans-serif;
     color: aliceblue;
